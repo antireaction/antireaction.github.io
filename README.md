@@ -3,8 +3,8 @@
 ### This is a GitHub account mainly for debunking reactionary lies and fearmongering.
 
 - **Queer Rights! (EN)** 
-> A static Jekyll site for debunking myths, pseudoscience, and irrational fearmongering against queer (=LGBT+) people.
+> A static Jekyll site for debunking myths, pseudoscience, and fearmongering against queer (=LGBT+) people.
 - **Queere Rechte! (DE)** 
-> Eine statische Jekyll Seite zur Widerlegung von Mythen, Pseudowissenschaft und irrationale Panikmache gegen queere (=LGBT+) Menschen.
+> Eine statische Jekyll Seite zur Widerlegung von Mythen, Pseudowissenschaft und Panikmache gegen queere (=LGBT+) Menschen.
 - **Права квирам! (РУС)** 
 > Статный сайт сделанный с Jekyll для опровержения мифов, псевдонауки и тактик запугивания против квирных (=ЛГБТ+) людей.
