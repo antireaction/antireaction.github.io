@@ -1,6 +1,6 @@
 #  _Against reactionary lies_
 
-This is a GitHub account mainly for debunking reactionary lies and fearmongering in present politics.
+### This is a GitHub account mainly for debunking reactionary lies and fearmongering.
 
 - **Queer Rights! (EN)** 
 > A static Jekyll site for debunking myths, pseudoscience, and irrational fearmongering against queer (=LGBT+) people.
