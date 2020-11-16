@@ -1,5 +1,4 @@
-# Anti-reactionary
-### _Against reactionary lies_
+#  _Against reactionary lies_
 
 This is a GitHub account mainly for debunking reactionary lies and fearmongering in present politics.
 
