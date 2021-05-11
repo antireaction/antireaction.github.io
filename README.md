@@ -10,7 +10,7 @@
 
 ### Dieser GitHub Account ist für das Hosten von Webseiten zur Widerlegung von Lügen der [reaktionären Politik](https://de.wikipedia.org/wiki/Reaktion_(Politik)).
 - **Queere Rechte!** 
-> Eine statische Jekyll Seite zur Widerlegung von Mythen, Pseudowissenschaft und Panikmache gegen queere (=LGBT+) Menschen.
+> Eine statische Jekyll Seite zur Widerlegung von Mythen, Pseudowissenschaft und Panikmache gegen queere (=LSBT+) Menschen.
 
 <br>
 
