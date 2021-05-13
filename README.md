@@ -1,7 +1,7 @@
 ##  _Against reactionary lies_
 
 ### This GitHub account is for hosting sites to debunk the lies spread by [reactionary politics](https://en.wikipedia.org/wiki/Reactionary).
-- **Queer Rights!** 
+- [**Queer Rights!](https://antireaction.github.io/queerrights-en/)** 
 > A static Jekyll site for debunking myths, pseudoscience, and fearmongering against queer (=LGBT+) people.
 
 <br>
